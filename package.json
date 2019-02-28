@@ -1,8 +1,16 @@
 {
-  "name": "bem-module",
+  "name": "nuxt-bem-module",
   "version": "0.1.1",
   "description": "A NuxtJS module to use BEM directive with SSR.",
   "license": "MIT",
+  "keywords": [
+    "nuxt",
+    "module",
+    "ssr",
+    "vue",
+    "bem",
+    "БЭМ"
+  ],
   "contributors": [
     {
       "name": "Vlad Barcelo"
