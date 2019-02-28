@@ -9,7 +9,7 @@
 
 > A NustJS module to use BEM directive with SSR.
 
-[📖 **Release Notes**](./CHANGELOG.md)
+Based on [@verstaerker/vue-bem](https://github.com/verstaerker/vue-bem) bem directive.
 
 ## Setup
 
@@ -24,7 +24,7 @@
     'bem-module',
 
     // With options
-    ['bem-module', { /* module options */ }]
+    ['bem-module', { /* module options, same as for vue-bem */ }]
   ]
 }
 ```
