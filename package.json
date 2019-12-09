@@ -58,7 +58,7 @@
     "nuxt-edge": "latest",
     "request": "latest",
     "request-promise-native": "latest",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^8.0.0",
     "standard-version": "latest"
   }
 }
