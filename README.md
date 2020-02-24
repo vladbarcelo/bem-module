@@ -5,7 +5,7 @@
 [![Dependencies][david-dm-src]][david-dm-href]
 [![Standard JS][standard-js-src]][standard-js-href]
 
-> A NustJS module to use BEM directive with SSR.
+> A NuxtJS module to use BEM directive with SSR.
 
 Based on [@verstaerker/vue-bem](https://github.com/verstaerker/vue-bem) bem directive.
 
