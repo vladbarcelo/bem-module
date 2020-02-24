@@ -11,18 +11,18 @@ Based on [@verstaerker/vue-bem](https://github.com/verstaerker/vue-bem) bem dire
 
 ## Setup
 
-1. Add the `bem-module` dependency with `yarn` or `npm` to your project
-2. Add `bem-module` to the `modules` section of `nuxt.config.js`
+1. Add the `nuxt-bem-module` dependency with `yarn` or `npm` to your project (`yarn add nuxt-bem-module` or `npm i nuxt-bem-module`)
+2. Add `nuxt-bem-module` to the `modules` section of `nuxt.config.js`
 3. Configure it:
 
 ```js
 {
   modules: [
     // Simple usage
-    'bem-module',
+    'nuxt-bem-module',
 
-    // With options
-    ['bem-module', { /* module options, same as for vue-bem */ }]
+    // OR With options
+    ['nuxt-bem-module', { /* module options, same as for vue-bem */ }]
   ]
 }
 ```
